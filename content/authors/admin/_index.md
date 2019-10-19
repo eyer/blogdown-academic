@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Chad Michael Eyer
 
 # Username (this should match the folder name)
 authors:
@@ -20,22 +20,31 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Student. Thinker. Learner. Leader. **Human.**
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Instructional Design
+- Accessibility
+- Data Science
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Master of Education, Technology Leadership
+    institution: University of West Florido
+    year: anticipated 2020
+  - course: Bachelor of Science, Information Engineering Technology
+    institution: University of West Florido
+    year: 2017
+  - course: Bachelor of Science, Network Systems Operations
+    institution: University of West Florido
+    year: 2017
+  - course: Certificate, Technology Systems Support
+    institution: University of West Florido
+    year: 2017
+  - course: Certificate, Web Development Technology
+    institution: University of West Florida
+    year: 2017
+  - course: Associate in Arts
+    institution: Seminole State College of Florida
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
