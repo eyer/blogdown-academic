@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Student. Thinker. Learner. Leader. **Human.**
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -79,6 +79,7 @@ A past member of the [University of Central Florida Marching Knights] and the [W
 A Florida native, Chad lives, works, and studies in the Old East Hill neighborhood of Pensacola, Florida.
 
   [University of West Florida]: http://www.uwf.edu
+  [University of Central Florida]: http://www.ucf.edu
   [Seminole State College of Florida]: http://www.seminolestate.edu
   [Apple Certified Macintosh Technician]: http://training.apple.com/certification/acmt
   [University of Central Florida Marching Knights]: http://ucfbands.com/marching-knights/
