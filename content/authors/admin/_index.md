@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Education, Technology Leadership
+  - course: M.Ed., Technology Leadership
     institution: University of West Florida, 2020 (anticipated)
     # year: anticipated 2020
   - course: B.S., Information Engineering Technology
