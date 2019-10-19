@@ -27,24 +27,24 @@ interests:
 
 education:
   courses:
-  - course: Master of Education<br/>Technology Leadership
-    institution: University of West Florido
-    year: anticipated 2020
-  - course: Bachelor of Science<br/>Information Engineering Technology
-    institution: University of West Florida
-    year: 2017
-  - course: Bachelor of Science<br/>Network Systems Operations
-    institution: University of West Florido
-    year: 2017
-  - course: Certificate<br/>Technology Systems Support
-    institution: University of West Florido
-    year: 2017
-  - course: Certificate<br/>Web Development Technology
-    institution: University of West Florida
-    year: 2017
+  - course: Master of Education, Technology Leadership
+    institution: University of West Florida, 2020 (anticipated)
+    # year: anticipated 2020
+  - course: Bachelor of Science, Information Engineering Technology
+    institution: University of West Florida, 2017
+    # year: 2017
+  - course: Bachelor of Science, Network Systems Operations
+    institution: University of West Florida, 2017
+    # year: 2017
+  - course: Certificate, Technology Systems Support
+    institution: University of West Florida, 2017
+    # year: 2017
+  - course: Certificate, Web Development Technology
+    institution: University of West Florida, 2017
+    # year: 2017
   - course: Associate in Arts
     institution: Seminole State College of Florida
-    year: 2011
+    # year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
