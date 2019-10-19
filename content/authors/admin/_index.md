@@ -30,10 +30,10 @@ education:
   - course: Master of Education, Technology Leadership
     institution: University of West Florida, 2020 (anticipated)
     # year: anticipated 2020
-  - course: Bachelor of Science, Information Engineering Technology
+  - course: B.S., Information Engineering Technology
     institution: University of West Florida, 2017
     # year: 2017
-  - course: Bachelor of Science, Network Systems Operations
+  - course: B.S., Network Systems Operations
     institution: University of West Florida, 2017
     # year: 2017
   - course: Certificate, Technology Systems Support
@@ -42,8 +42,8 @@ education:
   - course: Certificate, Web Development Technology
     institution: University of West Florida, 2017
     # year: 2017
-  - course: Associate in Arts
-    institution: Seminole State College of Florida
+  - course: A.A., General Studies
+    institution: Seminole State College of Florida, 2011
     # year: 2011
 
 # Social/Academic Networking
