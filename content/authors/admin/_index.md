@@ -33,7 +33,7 @@ education:
   - course: B.S., Information Engineering Technology and Network Systems Operations
     institution: University of West Florida, 2017
     # year: 2017
-  - course: Certificates: Technology Systems Support and Web Development Technology
+  - course: Certificates, Technology Systems Support and Web Development Technology
     institution: University of West Florida, 2017
     # year: 2017
   - course: A.A., General Studies
