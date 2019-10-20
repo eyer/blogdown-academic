@@ -6,7 +6,7 @@ diagram: true
 markup: mmark
 ---
 
-This function formats p-values for use in Rmankdown documents to accomplish the following three formatting goals to follow APA style:
+This function formats p-values for use in Rmarkdown documents to accomplish the following three formatting goals to follow APA style:
 
 * Round to three digits
 * Trim leading zero
