@@ -1,7 +1,9 @@
 ---
-title: "2019 10 19"
-date: 2019-10-19T18:45:50-05:00
-draft: false
+title: Writing technical content in Academic
+date: 2019-07-12
+math: true
+diagram: true
+markup: mmark
 image:
   placement: 3
   caption: 'Image credit: [**Alan Levine**](https://www.flickr.com/photos/cogdog/47590107551/in/photolist-FngFPG-4Xyeqz-oQmydB-oaM65G-X7QACS-VKnGFW-pZmuyZ-dwikL4-VbLJum-s2kxRT-mQNEQF-qEznxn-2duLFmy-25usFa2-oRRafz-MmDJYj-2fvnJXH-Jo7PjS-7pS69i-TJYn7m-pq2qqW-WY79Sw-SJAHeU-dVfNjg-D1FTSc-4PUCGq-PVKoCd-26t5Hze-pszYuV-4papfo-4HGWut-27B5Q9L-4H72jH-77YQCo-SwDCQs-owPwwa-2fAeP3H-hQTJyo-2cC4y2J-U6wznN-neNNVz-27QKEnM-MZH8Jb-2ahbFwf-io8FGr-219ed6g-hsrpbZ-EgbQ3D-22MXvmq-JGYztd)'
