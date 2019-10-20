@@ -30,16 +30,10 @@ education:
   - course: M.Ed., Technology Leadership
     institution: University of West Florida, 2020 (anticipated)
     # year: anticipated 2020
-  - course: B.S., Information Engineering Technology
+  - course: B.S., Information Engineering Technology & Network Systems Operations
     institution: University of West Florida, 2017
     # year: 2017
-  - course: B.S., Network Systems Operations
-    institution: University of West Florida, 2017
-    # year: 2017
-  - course: Certificate, Technology Systems Support
-    institution: University of West Florida, 2017
-    # year: 2017
-  - course: Certificate, Web Development Technology
+  - course: Certificates: Technology Systems Support and Web Development Technology
     institution: University of West Florida, 2017
     # year: 2017
   - course: A.A., General Studies
