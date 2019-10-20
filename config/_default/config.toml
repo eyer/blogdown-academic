@@ -13,7 +13,7 @@ baseurl = "www.eyer.us/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "All original content posted here (yours and mine) is licensed [CC-BY](http://creativecommons.org/licenses/by/3.0/us) unless otherwise specified. I don't speak for Apple, Inc., or the University of West Florida.	Written in [Markdown](http://daringfireball.net/projects/markdown/) with [TextMate](http://macromates.com). Hosting provided by [GitHub](http://www.github.com), [Netlify](http://www.netlify.com), and [FreeDNS](http://freedns.afraid.org). Proudly [Made on a Mac](http://store.apple.com)."
+copyright = "All original content posted here (yours and mine) is licensed [CC-BY](http://creativecommons.org/licenses/by/3.0/us) unless otherwise specified. · I don't speak for Apple, Inc., or the University of West Florida. · Written in [Markdown](http://daringfireball.net/projects/markdown/) with [TextMate](http://macromates.com). · Hosting provided by [GitHub](http://www.github.com), [Netlify](http://www.netlify.com), and [FreeDNS](http://freedns.afraid.org). · Proudly [Made on a Mac](http://store.apple.com)."
 
 ############################
 ## Advanced options below ##
