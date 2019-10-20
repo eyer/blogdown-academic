@@ -1,5 +1,5 @@
 ---
-title: Lorem
+title: Lorem ipsum...
 date: 2019-10-20
 math: true
 diagram: true
