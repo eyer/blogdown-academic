@@ -5,10 +5,10 @@ math: true
 diagram: true
 markup: mmark
 tags: [R, R Markdown, statistics]
-summary: This function formats p-values for use in R~Markdown documents to follow APA style.
+summary: This function formats p-values for use in R Markdown documents to follow APA style.
 ---
 
-This function formats p-values for use in R~Markdown documents to accomplish the following three formatting goals for APA style:
+This function formats p-values for use in R Markdown documents to accomplish the following three formatting goals for APA style:
 
 * Round to three digits
 * Trim leading zero
