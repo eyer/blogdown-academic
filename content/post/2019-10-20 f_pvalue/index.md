@@ -10,7 +10,7 @@ This function formats p-values for use in Rmankdown documents to accomplish the 
 
 * Round to three digits
 * Trim leading zero
-* Display $p < > .001$ in instances where a p-value is rounded down to zero
+* Display $p < .001$ in instances where a p-value is rounded down to zero
 
 ```r
 f_pvalue = function(p.value, symbol = "="){
