@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Lorem
+date: 2019-10-20
 math: true
 diagram: true
 markup: mmark
