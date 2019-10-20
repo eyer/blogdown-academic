@@ -5,6 +5,7 @@ math: true
 diagram: true
 markup: mmark
 tags: [R, R Markdown, statistics]
+summary: This function formats p-values for use in Rmarkdown documents to accomplish the following three formatting goals to follow APA style.
 ---
 
 This function formats p-values for use in Rmarkdown documents to accomplish the following three formatting goals to follow APA style:
