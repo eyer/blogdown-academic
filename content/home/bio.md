@@ -8,21 +8,10 @@ title = "Biography"
 subtitle = ""
 +++
 
-Chad Michael Eyer is a graduate student in the instructional design and technology program at the [University of West Florida]. His program specialization is technology leadership with a focus on the use of technology to remove barriers between potential and performance for organizations and individuals, especially those individuals with disabilities. He completed undergraduate programs in engineering technology and information technology and is an alumnus of [Seminole State College of Florida], the [University of Central Florida], and the [University of West Florida].
+Chad Michael Eyer is a student in the instructional design and technology program at the [University of West Florida](http://www.uwf.edu/) (UWF). His program specialization is technology leadership with a focus on using technology to remove barriers between potential and performance for organizations and individuals, especially individuals with disabilities. He completed undergraduate programs in engineering technology and information technology and is an alumnus of [Seminole State College of Florida](https://www.seminolestate.edu), the [University of Central Florida](https://www.ucf.edu), and the [University of West Florida](https://www.uwf.edu/).
 
-Chad works as a technical advisor supporting hardware, software, networking, and device management solutions in K-12, higher education, and enterprise environments. Besides his technical focus, his professional interests include operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician].
+Chad works as a technical advisor supporting hardware, software, networking, and device management solutions in K–12, higher education, and enterprise environments. Besides his technical interests, his professional experience include operations and process analysis, data management, print and online communication, technical writing and editing, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad volunteers as a [copy editor](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Guild_of_Copy_Editors) for the English-language [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), a technical consultant for the [Northwest Florida Chapter](https://www.redcross.org/local/florida/north-florida/about-us/locations/northwest-florida.html) of the American Red Cross, and a mentor to several undergraduates in UWF's [College of Professional Studies](https://uwf.edu/ceps). Chad is an [Apple Certified Mac Technician](https://support.apple.com/en-us/HT205332).
 
-A past member of the [University of Central Florida Marching Knights] and the [Walt Disney World Cast Choir], Chad continues to make music part of his life: He currently serves the music ministries of [Oakland Presbyterian Church] as a musician and is a life member of [Kappa Kappa Psi], the national honorary band fraternity. Chad is a member of [Orlando Lodge No. 69], Free and Accepted Masons. Chad is also an avid runner and has completed five marathons, including Goofy's Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
+A past member of the [University of Central Florida Marching Knights](https://ucfbands.com/marching-knights/), the [Walt Disney World Cast Choir](https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/), and the [UWF Summer Festival Chorus](https://www.uwfsingers.com/summer-festival-chorus.html), Chad continues to make music part of his life: he currently plays with the [Pensacola Bay Concert Band](https://pbcband.org), and he is a life member of [Kappa Kappa Psi](https://www.kkpsi.org), the national honorary band fraternity. Chad is a member of [Orlando Lodge No. 69](http://orlandomasons1876.com) of Free and Accepted Masons and the [Bahia Shriners](https://www.bahiashrine.org). Chad is also an avid runner: He has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
 
-A Florida native, Chad lives, works, and studies in the Old East Hill neighborhood of Pensacola, Florida.
-
-  [University of West Florida]: http://www.uwf.edu
-  [University of Central Florida]: http://www.ucf.edu
-  [Seminole State College of Florida]: http://www.seminolestate.edu
-  [Apple Certified Macintosh Technician]: http://training.apple.com/certification/acmt
-  [University of Central Florida Marching Knights]: http://ucfbands.com/marching-knights/
-  [Walt Disney World Cast Choir]: https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/
-  [Oakland Presbyterian Church]: http://www.oaklandpres,org
-  [Kappa Kappa Psi]: http://www.kkpsi.org
-  [Orlando Lodge No. 69]: http://www.orlandomasons1876.org
-
+A Florida native, Chad lives, works, and studies in the [Old East Hill](https://www.pensapedia.com/wiki/Old_East_Hill) neighborhood of [Pensacola, Florida](https://en.wikipedia.org/wiki/Pensacola,_Florida).
