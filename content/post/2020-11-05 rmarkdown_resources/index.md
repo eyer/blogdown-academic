@@ -13,7 +13,7 @@ This post supplements the presentation "Using R Markdown to Create Accessible Re
 ## Presentation materials
 
 * [Prerecorded video]()
-* [Slides]()
+* [Slides](Using%20R%20Markdown%20to%20Create%20Accessible%20Resources%20for%20Students%20with%20Visual%20Disabilities%20in%20STEM%20Classes.pdf)
 
 ## Resources
 
