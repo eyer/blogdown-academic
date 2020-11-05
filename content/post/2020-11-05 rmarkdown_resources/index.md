@@ -14,7 +14,7 @@ Special thanks to Dr. [Holley Handley](https://uwf.edu/ceps/departments/instruct
 
 ## Presentation materials
 
-* [Prerecorded video (YouTube)](https://youtu.be/I29h_I72d9U)
+* [Prerecorded video (YouTube)](https://youtu.be/Jkts2blDpvE) 
 * [Slides (PDF)](Using%20R%20Markdown%20to%20Create%20Accessible%20Resources%20for%20Students%20with%20Visual%20Disabilities%20in%20STEM%20Classes.pdf)
 
 ## Resources
