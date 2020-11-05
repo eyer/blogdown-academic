@@ -30,7 +30,7 @@ education:
   - course: M.S. Data Science
     institution: University of West Florida, 2022 (anticipated)
   - course: M.Ed., Technology Leadership
-    institution: University of West Florida, 2020 (anticipated)
+    institution: University of West Florida, 2021 (anticipated)
     # year: anticipated 2020
   - course: B.S., Information Engineering Technology and Network Systems Operations
     institution: University of West Florida, 2017
