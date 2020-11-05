@@ -4,7 +4,7 @@ date: 2020-11-05
 math: true
 diagram: true
 markup: mmark
-tags: [R, R Markdown, statistics, accessibility]
+tags: [R, R Markdown, statistics, accessibility, aect, aect2020]
 summary: This post lists resources for Markdown and R Markdown users, with a link to some sample statistical content.
 ---
 
