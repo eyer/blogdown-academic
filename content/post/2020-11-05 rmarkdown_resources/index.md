@@ -10,10 +10,12 @@ summary: This post lists resources for Markdown and R Markdown users, with a lin
 
 This post supplements the presentation "Using R Markdown to Create Accessible Resources for Students with Visual Disabilities in STEM Classes", given at the [2020 Virtual International Convention](https://convention2.allacademic.com/one/aect/aect20/) of the [Association for Educational Communications and Technology](https://aect.org).
 
+Special thanks to Dr. [Holley Handley](https://uwf.edu/ceps/departments/instructional-design-and-technology/our-faculty/faculty-profiles/dr-holley-handley.html) and Dr. [Samantha Seals](https://uwf.edu/hmcse/departments/mathematics-and-statistics/our-faculty/faculty-profiles/dr-samantha-seals.html), both from the University of West Florida. Without their assistance and mentorship, this presentation would not have been possible.
+
 ## Presentation materials
 
-* [Prerecorded video]()
-* [Slides](Using%20R%20Markdown%20to%20Create%20Accessible%20Resources%20for%20Students%20with%20Visual%20Disabilities%20in%20STEM%20Classes.pdf)
+* [Prerecorded video (YouTube)](https://youtu.be/I29h_I72d9U)
+* [Slides (PDF)](Using%20R%20Markdown%20to%20Create%20Accessible%20Resources%20for%20Students%20with%20Visual%20Disabilities%20in%20STEM%20Classes.pdf)
 
 ## Resources
 
