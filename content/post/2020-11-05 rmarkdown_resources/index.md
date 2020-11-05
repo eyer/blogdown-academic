@@ -16,8 +16,8 @@ summary: This post lists resources for Markdown and R Markdown users, with a lin
 
 ## Problem set examples
 
-* [R Markdown (source)]()
-* [Accessible HTML]()
-* [Printable PDF]()
+* [R Markdown (source)](https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.Rmd)
+* [Accessible HTML](http://htmlpreview.github.io/?https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.html)
+* [Printable PDF](https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.pdf)
 
 Problem set created by Samantha Seals, Ph.D., Department of Mathematics and Statistics, University of West Florida.
