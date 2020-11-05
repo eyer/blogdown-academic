@@ -8,6 +8,13 @@ tags: [R, R Markdown, statistics, accessibility, aect, aect2020]
 summary: This post lists resources for Markdown and R Markdown users, with a link to some sample statistical content.
 ---
 
+This post supplements the presentation "Using R Markdown to Create Accessible Resources for Students with Visual Disabilities in STEM Classes", given at the [2020 Virtual International Convention](https://convention2.allacademic.com/one/aect/aect20/) of the [Association for Educational Communications and Technology](https://aect.org).
+
+## Presentation materials
+
+* [Prerecorded video]()
+* [Slides]()
+
 ## Resources
 
 * [Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
