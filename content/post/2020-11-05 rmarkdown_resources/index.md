@@ -14,10 +14,10 @@ summary: This post lists resources for Markdown and R Markdown users, with a lin
 * [R Markdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 * [R Studio](https://rstudio.com/products/rstudio/)
 
-## Problem set examples
+## Problem set examples[^1]
 
 * [R Markdown (source)](https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.Rmd)
 * [Accessible HTML](http://htmlpreview.github.io/?https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.html)
 * [Printable PDF](https://github.com/eyer/blogdown-academic/blob/master/content/post/2020-11-05%20rmarkdown_resources/Homework%20assignment%201.pdf)
 
-Problem set created by Samantha Seals, Ph.D., Department of Mathematics and Statistics, University of West Florida.
+[^1]: Problem set created by [Samantha Seals](https://uwf.edu/hmcse/departments/mathematics-and-statistics/our-faculty/faculty-profiles/dr-samantha-seals.html), Ph.D., Department of Mathematics and Statistics, University of West Florida.
